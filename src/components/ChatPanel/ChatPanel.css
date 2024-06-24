@@ -1,0 +1,21 @@
+.chat-panel {
+    padding: 10px;
+    background-color: #202124;
+    color: white;
+  }
+  
+  .messages {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    background-color: #3c4043;
+    border: none;
+    border-radius: 5px;
+    color: white;
+  }
+  

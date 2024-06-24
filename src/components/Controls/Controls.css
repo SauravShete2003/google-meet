@@ -1,0 +1,18 @@
+.controls {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #202124;
+  }
+  
+ .control-icon{
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 50%;
+  width: 28px;
+  margin: 5px 10px;
+  
+  cursor: pointer;
+  color: #fff;
+
+ }
